@@ -19,4 +19,4 @@ A simple and responsive web page that allows users to read and listen to Quranic
 * 📖 High-quality Quranic text.
 * 🎧 Audio recitation (Listen to different reciters).
 * 📱 Fully Responsive design (Mobile friendly).
-* 🌙 Dark/Light Mode (لو إنت عاملها).
+* 🌙 Dark/Light Mode .
