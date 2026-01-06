@@ -1,16 +1,22 @@
-# React + Vite
+# Al-Quran App 🕋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web application for reading and listening to the Holy Quran, built with a focus on speed and a modern user experience.
 
-Currently, two official plugins are available:
+## Description
+A simple and responsive web page that allows users to read and listen to Quranic Surahs easily.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+* **React + Vite**: For core logic and fast development.
+* **Tailwind CSS**: For modern and responsive styling.
+* **Material UI (MUI)**: For high-quality icons and components.
 
-## React Compiler
+## Setup & Installation
+1. Clone the repo:
+   ```bash
+   git clone [https://github.com/mohamedmagdy20021311-byte/alquran.git](https://github.com/mohamedmagdy20021311-byte/alquran.git)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Key Features
+* 📖 High-quality Quranic text.
+* 🎧 Audio recitation (Listen to different reciters).
+* 📱 Fully Responsive design (Mobile friendly).
+* 🌙 Dark/Light Mode (لو إنت عاملها).
