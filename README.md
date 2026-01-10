@@ -20,3 +20,6 @@ A simple and responsive web page that allows users to read and listen to Quranic
 * 🎧 Audio recitation (Listen to different reciters).
 * 📱 Fully Responsive design (Mobile friendly).
 * 🌙 Dark/Light Mode .
+
+## Live ProJect
+https://alquranalkarimbymagdy.netlify.app/
